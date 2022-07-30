@@ -1,9 +1,10 @@
 # projeto02-explorer
-Curso Explorer - Rocketseat
+**Curso Explorer - Rocketseat**
 
-Projeto Intermediário - Semântica e Acessibilidade
+**Projeto Intermediário - Semântica e Acessibilidade**
 
 Design: https://www.figma.com/file/rkDOHGPwwFtBNqEdHSuQPd/Projeto-02---Explorer?node-id=23%3A1928
+
 
 Por meio do módulo 02 foi possível:
 - Conhecer as tags semânticas
