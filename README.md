@@ -1,4 +1,4 @@
-# projeto02-explorer-stage02
+# projeto02-stage02-explorer
 **Curso Explorer - Rocketseat**
 
 **Projeto Intermediário - Semântica e Acessibilidade**
